@@ -1,0 +1,10 @@
+<<<<<<< Updated upstream
+=======
+12312
+
+
+
+s 
+
+main
+>>>>>>> Stashed changes
